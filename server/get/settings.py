@@ -1,0 +1,9 @@
+host='10.0.3.33'
+db='inf'
+user='root'
+pwd='root'
+eth='ens3'
+tables=['SERVICE', 'test']
+queues = ['SERVICE', 'connection']
+queue = 'SERVICE'
+connection = 'connection'
